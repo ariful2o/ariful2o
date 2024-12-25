@@ -1,4 +1,3 @@
-<div align="center">
 # Mohammad Ariful Islam | MERN Stack Developer  
 ![MERN Stack Setup Guide](https://qualitythought.in/wp-content/uploads/2024/08/a_step_by_step_guide_to_setting_up_a_mern_stack_development_environment.webp)
 
@@ -9,16 +8,18 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arifulz848@gmail.com)  
 
 ---
-
+<h2 align="center">
 ## About Me 👨‍💻  
-
+</h2>
 Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled in creating modern, efficient, and user-friendly applications. I focus on developing full-stack solutions with excellent user experiences using the latest web technologies.
 
 ---
-
+<h2 align="center">
 ## 🚀 Skills & Technologies  
-
+</h2>
+<h2 align="center">
 **Frontend**:  
+</h2>
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
@@ -30,20 +31,28 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 [![Tanstack](https://img.shields.io/badge/Tanstack-FF4981?style=flat-square&logo=tanstack&logoColor=white)](https://tanstack.com/)  
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)  
 
+<h2 align="center">
 **Backend**:  
+</h2>
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)  
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)  
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)  
 
+<h2 align="center">
 **Database**:  
+</h2>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 
+<h2 align="center">
 **Cloud & Hosting**:  
+</h2>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)  
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)  
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)  
 
+<h2 align="center">
 **Other Tools**:  
+</h2>
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ariful2o)  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)  
@@ -52,7 +61,6 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)  
 
 ---
-</div>
 
 ## 🧪 Testing  
 
