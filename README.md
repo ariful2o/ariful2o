@@ -15,12 +15,6 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 
 ## 🚀 Skills & Technologies  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,react-router,tanstack" />
-  </a>
-</p>
-
 **Frontend**:  
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
@@ -41,8 +35,8 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 
 **Cloud & Hosting**:  
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)  
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)  
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)  
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)  
 
 **Other Tools**:  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
@@ -50,6 +44,15 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)  
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)  
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)  
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)  
+
+---
+
+## 🧪 Testing  
+
+**Postman**: I use Postman for API testing and documentation. It allows me to test, monitor, and document my APIs, ensuring they meet the required functionality and performance standards before deployment.  
+**Jest**: For unit and integration testing in JavaScript and React applications, I use Jest to ensure code reliability and to catch bugs early in the development process.  
+**Supertest**: For testing Express.js APIs, I rely on Supertest to perform HTTP assertions.  
 
 ---
 
