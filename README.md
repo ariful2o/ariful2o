@@ -17,7 +17,7 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html CSS js js firebase" />
+    <img src="https://skillicons.dev/icons?i=html css js js firebase" />
   </a>
 </p>
 
