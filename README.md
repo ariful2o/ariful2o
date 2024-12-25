@@ -1,4 +1,6 @@
 # Mohammad Ariful Islam | MERN Stack Developer  
+![MERN Stack Setup Guide](https://qualitythought.in/wp-content/uploads/2024/08/a_step_by_step_guide_to_setting_up_a_mern_stack_development_environment.webp)
+
 
 [![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ariful2o)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)  
