@@ -1,6 +1,6 @@
 # Mohammad Ariful Islam | MERN Stack Developer  
 
-[![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ariful2o)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arifulz848@gmail.com)  
@@ -25,10 +25,12 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)  
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)](https://reactrouter.com/)  
 [![Tanstack](https://img.shields.io/badge/Tanstack-FF4981?style=flat-square&logo=tanstack&logoColor=white)](https://tanstack.com/)  
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)  
 
 **Backend**:  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)  
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)  
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)  
 
 **Database**:  
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
@@ -40,7 +42,7 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 
 **Other Tools**:  
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ariful2o)  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)  
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)  
 [![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)](https://axios-http.com/)  
@@ -53,12 +55,13 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 **Postman**: I use Postman for API testing and documentation. It allows me to test, monitor, and document my APIs, ensuring they meet the required functionality and performance standards before deployment.  
 **Jest**: For unit and integration testing in JavaScript and React applications, I use Jest to ensure code reliability and to catch bugs early in the development process.  
 **Supertest**: For testing Express.js APIs, I rely on Supertest to perform HTTP assertions.  
+**JWT**: I utilize JSON Web Tokens (JWT) for secure authentication and authorization in my applications. JWT ensures that sensitive user data is transmitted securely between client and server.
 
 ---
 
 ## 🌟 Featured Projects  
 
-### 🐾 [Pet Adoption Platform](https://github.com/yourusername/pet-adoption-client)  
+### 🐾 [Pet Adoption Platform](https://github.com/ariful2o/pet-adoption-client)  
 A feature-rich platform for pet adoption with CRUD operations and an intuitive interface.  
 - **Tech Stack**: React.js, Tailwind CSS, Node.js, MongoDB  
 - **Key Features**:  
@@ -66,7 +69,7 @@ A feature-rich platform for pet adoption with CRUD operations and an intuitive i
   - Real-time pet status updates  
   - Mobile-responsive design  
 
-### 🎗️ [Donation Campaigns Platform](https://github.com/yourusername/donation-campaigns)  
+### 🎗️ [Donation Campaigns Platform](https://github.com/ariful2o/donation-campaigns)  
 A modern web application to showcase donation campaigns with infinite scrolling and dynamic categorization.  
 - **Tech Stack**: React.js, Redux, Firebase, Tailwind CSS  
 - **Key Features**:  
@@ -77,8 +80,8 @@ A modern web application to showcase donation campaigns with infinite scrolling 
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariful2o&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariful2o&layout=compact&theme=github_dark)  
 
 ---
 
