@@ -1,3 +1,4 @@
+<div align="center">
 # Mohammad Ariful Islam | MERN Stack Developer  
 ![MERN Stack Setup Guide](https://qualitythought.in/wp-content/uploads/2024/08/a_step_by_step_guide_to_setting_up_a_mern_stack_development_environment.webp)
 
@@ -51,6 +52,7 @@ Hello! I'm **Mohammad Ariful Islam**, a passionate MERN Stack developer skilled 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)  
 
 ---
+</div>
 
 ## 🧪 Testing  
 
