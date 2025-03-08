@@ -27,8 +27,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 <a href="https://mongodb.com" target="_blank"> <img align="left" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" height="42px"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img align="left" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express-js" height="42px"/> </a> 
-<a href="https://nextjs.org" target="_blank"><img align="left" alt="Next Js" height ="42px" src="https://api.reliasoftware.com/uploads/next_js_services_ecfc2a17c9.webp"></a>
+<a href="https://expressjs.com" target="_blank"> <img align="left" src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="express-js" height="42px"/> </a> 
+<a href="https://nextjs.org" target="_blank"><img align="left" alt="Next Js" height ="42px" src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default"></a>
 <a href="https://redux.js.org" target="_blank"> <img align="left" alt="Redux Js" height ="42px" src="https://static-00.iconduck.com/assets.00/redux-icon-2048x1945-ahvhunxp.png"> </a>
 <a href="https://jwt.io/" target="_blank"><img align="left" alt="JWT" height ="42px" src="https://jwt.io/img/pic_logo.svg"></a>
 <a href="https://tailwindcss.com" target="_blank"><img align="left" alt="Tailwind Css" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png"></a>
@@ -37,6 +37,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://getbootstrap.com" target="_blank"><img align="left" alt="" height ="42px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
