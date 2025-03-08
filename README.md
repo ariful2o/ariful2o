@@ -40,7 +40,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://getbootstrap.com" target="_blank"><img align="left" alt="" height ="42px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
+<a href="https://www.postman.com/" target="_blank"> <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" height='42px'/> </a>
 <br>
 
 
