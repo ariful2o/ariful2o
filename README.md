@@ -6,7 +6,7 @@
 <a href='https://www.facebook.com/ariful2o'><img alt="facebook" src="https://www.citypng.com/public/uploads/preview/outline-round-facebook-fb-icon-logo-701751695134773jn1popsjn6.png" height='18px'/></a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ariful2o&label=Profile%20views&color=0e75b6&style=flat" alt="ariful2o" /> </p>
 
-I am a passionate MERN Stack Developer (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) from Bangladesh, skilled in building full-stack applications using React, Next.js, Redux, Node.js, Express.js, MongoDB, and TypeScript. With expertise in modern front-end and back-end technologies, he is continuously learning and exploring new stacks to enhance his development skills.
+I am a passionate MERN Stack Developer (Full Stack Web Developer 🌐, App Developer 📱, Beginner level Designer 🎨) from Bangladesh, skilled in building full-stack applications using React, Next.js, Redux, Node.js, Express.js, MongoDB, and TypeScript. With expertise in modern front-end and back-end technologies, he is continuously learning and exploring new stacks to enhance his development skills.
 
 His GitHub profile showcases a variety of projects, including pet-adoption-client, reflecting his ability to work on real-world applications. He is open to collaborating on MERN stack and open-source projects and enjoys problem-solving, designing scalable applications, and integrating advanced technologies.
 
