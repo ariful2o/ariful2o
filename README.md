@@ -23,7 +23,7 @@ Ariful is also proficient in Firebase, Tailwind CSS, Bootstrap, Git, and JWT aut
 - 🤝 I’m looking to collaborate on **MERN Stack & Open Source Projects**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/ariful2o?tab=repositories)
 - 💬 Ask me about **React, Redux, Firebase, MongoDB, Node.js, Express**
-- 📫 How to reach me: **[LinkedIn](#)** | **[Email](mailto:arifulz848@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](#)** | **[Email](mailto:arifulz848@gmail.com)** | **[Fiverr](#)**
 - 📄 Check out my **[Resume](#)**
 
 
